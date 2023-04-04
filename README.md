@@ -24,6 +24,8 @@ I'm a senior computer science student with a passion for software engineering, m
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <br />
 
+#
+
 Here are some fun stats about my profile:
 
 <a href="https://github.com/aayam-shrestha">
