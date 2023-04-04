@@ -29,6 +29,6 @@ I'm a senior computer science student with a passion for software engineering, m
 Here are some fun stats about my profile:
 
 <a href="https://github.com/aayam-shrestha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayam-shrestha&hide=stars&theme=tokyonight&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayam-shrestha&exclude_repo=cs214&theme=tokyonight&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayam-shrestha&hide=stars&count_private=true&theme=tokyonight&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayam-shrestha&hide=Ada,Clojure&theme=tokyonight&layout=compact" />
 </a>
