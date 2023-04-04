@@ -1,4 +1,4 @@
-# 🧗‍♂️Aayam Shrestha 
+# 🚵‍♂️Aayam Shrestha 
 
 Hi there👋 welcome to my GitHub!
 
